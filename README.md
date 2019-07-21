@@ -1,4 +1,2 @@
 # training_1
-owfnwlemf
-wifowelmfw;f,
-iwfolwmfw;,'
+This is final file
